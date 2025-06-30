@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mengqing Xu"
-  pronouns         : "he/his"  
-  bio              : "Master student at Sustech"
+  pronouns         : #"He/His"  
+  bio              : "I'm doing Master with prof.Oliveto at Sustech"
   location         : "China"
   employer         : "Sustech"
   uri              : # URL
